@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 128 128" shape-rendering="crispEdges">
+  <rect width="128" height="128" fill="#101427"/>
+  <!-- night mountains -->
+  <path fill="#222c4b" d="M0 20h8v-5h8v-5h9v5h7v7h8v-4h7v9h8v-7h8v8h9v-5h8v10h8v-9h8v101H0z"/>
+  <path fill="#314263" d="M0 29h14v-6h7v5h11v-5h9v12h12v-7h13v7h10v-5h11v12h11v-7h10v93H0z"/>
+  <rect y="52" width="128" height="76" fill="#3e342e"/>
+  <!-- cave mouth, irregular rim -->
+  <path fill="#241d25" d="M18 128V69h4v-12h5v-9h6v-7h8v-6h10v-4h25v3h11v5h9v7h6v8h5v13h3v61z"/>
+  <path fill="#080b14" d="M28 128V71h4V58h5V51h7v-6h8v-4h29v4h9v6h6v8h4v13h3v56z"/>
+  <!-- cavern depth bands -->
+  <path fill="#12152a" d="M43 128V74h3V62h6v-6h10v-3h14v4h9v7h5v13h4v51z"/>
+  <path fill="#19162a" d="M58 128V76h4V66h6v-4h9v6h5v9h4v51z"/>
+  <!-- warm daylight at threshold -->
+  <path fill="#e09b56" d="M0 84h20v-7h4v-8h4v14h4v15h-4v9h-8v5H0z"/>
+  <path fill="#f3c56c" d="M0 91h17v-7h5v10h5v7h-4v7h-8v5H0z"/>
+  <path fill="#bc7046" d="M0 105h19v-5h6v7h-4v7h-8v7H0z"/>
+  <!-- stone highlights -->
+  <g fill="#5e4a43"><rect x="20" y="63" width="4" height="8"/><rect x="24" y="54" width="4" height="4"/><rect x="30" y="46" width="5" height="3"/><rect x="35" y="39" width="7" height="3"/><rect x="21" y="113" width="7" height="3"/><rect x="29" y="119" width="5" height="3"/><rect x="98" y="58" width="4" height="9"/><rect x="93" y="48" width="5" height="4"/><rect x="85" y="40" width="8" height="3"/><rect x="100" y="109" width="8" height="3"/></g>
+  <g fill="#806153"><rect x="18" y="74" width="3" height="6"/><rect x="25" y="48" width="3" height="4"/><rect x="37" y="36" width="5" height="2"/><rect x="102" y="70" width="3" height="6"/><rect x="94" y="52" width="3" height="4"/><rect x="87" y="43" width="4" height="2"/></g>
+  <!-- ground/path -->
+  <path fill="#60443a" d="M0 114h31l14-5h27l19 5h37v14H0z"/>
+  <path fill="#795346" d="M0 120h35l14-5h20l19 5h40v8H0z"/>
+  <path fill="#b07050" d="M0 124h33l15-5h23l17 5h40v4H0z"/>
+  <!-- lone wandering swordsman, back view -->
+  <g>
+    <rect x="65" y="70" width="8" height="3" fill="#2a2130"/>
+    <rect x="63" y="73" width="12" height="6" fill="#171625"/>
+    <rect x="61" y="79" width="16" height="12" fill="#151522"/>
+    <rect x="59" y="83" width="4" height="9" fill="#211c2a"/>
+    <rect x="75" y="81" width="5" height="10" fill="#12121d"/>
+    <rect x="62" y="90" width="6" height="14" fill="#10121c"/>
+    <rect x="70" y="90" width="6" height="14" fill="#0c0e17"/>
+    <rect x="61" y="102" width="8" height="3" fill="#080b12"/>
+    <rect x="70" y="102" width="8" height="3" fill="#070a10"/>
+    <!-- cloak fading into the cave -->
+    <rect x="63" y="79" width="5" height="11" fill="#34304b"/>
+    <rect x="64" y="91" width="4" height="6" fill="#29273d"/>
+    <rect x="69" y="78" width="5" height="4" fill="#29263d"/>
+    <!-- sword on back -->
+    <rect x="76" y="69" width="2" height="18" fill="#8b8d9a"/>
+    <rect x="78" y="70" width="2" height="14" fill="#4a4d60"/>
+    <rect x="75" y="70" width="5" height="2" fill="#c3a96c"/>
+  </g>
+  <!-- sparse torchlike rim light on the figure -->
+  <rect x="61" y="80" width="2" height="9" fill="#9f6546"/>
+  <rect x="62" y="90" width="2" height="6" fill="#754d42"/>
+  <!-- dark foreground encroaches -->
+  <path fill="#060911" d="M90 128v-12h5v-7h6v-8h7v-9h6v-8h14v44z"/>
+</svg>
